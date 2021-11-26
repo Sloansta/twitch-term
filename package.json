@@ -1,0 +1,22 @@
+{
+  "name": "twitch-term",
+  "version": "1.0.0",
+  "description": "Read Twitch chat in the terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sloansta/twitch-term.git"
+  },
+  "author": "Sloan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sloansta/twitch-term/issues"
+  },
+  "homepage": "https://github.com/Sloansta/twitch-term#readme",
+  "devDependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
